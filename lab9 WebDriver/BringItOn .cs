@@ -4,7 +4,6 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
-using static lab9_WebDriver.Tests;
 
 
 namespace lab9_WebDriver;

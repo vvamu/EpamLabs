@@ -7,7 +7,6 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
-using static lab9_WebDriver.Tests;
 
 
 namespace lab9_WebDriver;
@@ -59,11 +58,17 @@ public abstract class TestsClass
         }
         catch
         {
+            try
+            {
+                Actions actions = new Actions(driver);
+                actions.MoveToElement(element);
+                actions.Perform();
 
-            Actions actions = new Actions(driver);
-            actions.MoveToElement(element);
-            actions.Perform();
+            }
+            catch
+            {
 
+            }
 
         }
 
