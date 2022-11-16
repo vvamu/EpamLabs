@@ -1,0 +1,15 @@
+E:\3c\EpamLabs\Aircompany\Aircompany\bin\Debug\net6.0\Aircompany.exe
+E:\3c\EpamLabs\Aircompany\Aircompany\bin\Debug\net6.0\Aircompany.deps.json
+E:\3c\EpamLabs\Aircompany\Aircompany\bin\Debug\net6.0\Aircompany.runtimeconfig.json
+E:\3c\EpamLabs\Aircompany\Aircompany\bin\Debug\net6.0\Aircompany.dll
+E:\3c\EpamLabs\Aircompany\Aircompany\bin\Debug\net6.0\Aircompany.pdb
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\Aircompany.csproj.AssemblyReference.cache
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\Aircompany.GeneratedMSBuildEditorConfig.editorconfig
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\Aircompany.AssemblyInfoInputs.cache
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\Aircompany.AssemblyInfo.cs
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\Aircompany.csproj.CoreCompileInputs.cache
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\Aircompany.dll
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\refint\Aircompany.dll
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\Aircompany.pdb
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\Aircompany.genruntimeconfig.cache
+E:\3c\EpamLabs\Aircompany\Aircompany\obj\Debug\net6.0\ref\Aircompany.dll
