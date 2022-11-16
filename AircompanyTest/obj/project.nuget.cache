@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7gcT8N0Vrwko6BqfLFyrMUt6WyJrnzWGl7i1C9eI6m/zvu6+AnI424uPiLYVr0zGi5uGj3BcyZXryHhOgcHeWQ==",
+  "success": true,
+  "projectFilePath": "E:\\3c\\EpamLabs\\Aircompany\\AircompanyTest\\AircompanyTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\who\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
